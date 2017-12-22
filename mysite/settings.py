@@ -25,7 +25,7 @@ SECRET_KEY = '09+=i$ikppt$yg66p8__0*4kmb=*alfjkzc0+i6jin7*3jp6gr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'dlarin.pythonanywhere.com']
 
 
 # Application definition
